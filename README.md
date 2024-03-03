@@ -7,7 +7,7 @@ I'm passively looking for new positions where I can develop my love for code. If
 
 <p align ="left">
   <a  href="https://khoi-ngo.vercel.app/" target="_blank">
-    <img src=https://img.shields.io/badge/My-Website-000000?style=for-the-badge&logo=vercel&logoColor=white alt="example"/>
+    <img src=https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=vercel&logoColor=white alt="example"/>
   </a>
   <a href="mailto:ngo.kho@northeastern.edu?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
