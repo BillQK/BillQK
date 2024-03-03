@@ -30,7 +30,7 @@ I'm passively looking for new positions where I can develop my love for code. If
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -81,6 +81,30 @@ I'm passively looking for new positions where I can develop my love for code. If
 <a href="https://github.com/BillQK/kanbas-node-server-app">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=BillQK&repo=kanbas-node-server-app&theme=radical" width="350" /> <!-- Adjust the width as needed -->
 </a>
+
+
+</td>
+</tr>
+</table>
+
+
+<table>
+<tr>
+<td valign="top">
+<img alt="C++" width="30pz" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+</td>
+<td>
+<a href="https://github.com/BillQK/TextEditor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BillQK&repo=TextEditor&theme=radical" width="350" /> <!-- Adjust the width as needed -->
+</a>
+<a href="https://github.com/BillQK/Asset-Library-And-Scene-Builder">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BillQK&repo=Asset-Library-And-Scene-Builder&theme=radical" width="350" /> <!-- Adjust the width as needed -->
+</a>
+
+<a href="https://github.com/BillQK/Content-Aware-Image-Resize">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BillQK&repo=Content-Aware-Image-Resize&theme=radical" width="350" /> <!-- Adjust the width as needed -->
+</a>
+
 
 
 </td>
