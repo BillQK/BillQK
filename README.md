@@ -54,7 +54,7 @@ I'm passively looking for new positions where I can develop my love for code. If
 </div>
 
 ## Projects 🔭
-### Javascript
+### <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <a href="https://belo-music.netlify.app/Dashboard/feed">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
