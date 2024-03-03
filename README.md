@@ -68,8 +68,13 @@ I'm passively looking for new positions where I can develop my love for code. If
 </td>
 <td>
 
-[![Project](https://github-readme-stats.vercel.app/api/pin/?username=BillQK&repo=belo&theme=radical)](https://belo-music.netlify.app/Dashboard/feed)
-[![Project](https://github-readme-stats.vercel.app/api/pin/?username=BillQK&repo=belo-server&theme=radical)](https://belo-music.netlify.app/Dashboard/feed)
+<a href="https://belo-music.netlify.app/Dashboard/feed">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BillQK&repo=belo&theme=radical" width="450" /> <!-- Adjust the width as needed -->
+</a>
+<a href="https://belo-music.netlify.app/Dashboard/feed">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BillQK&repo=belo-server&theme=radical" width="450" /> <!-- Adjust the width as needed -->
+</a>
+
 
 </td>
 </tr>
