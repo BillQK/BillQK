@@ -69,10 +69,10 @@ I'm passively looking for new positions where I can develop my love for code. If
 <td>
 
 <a href="https://belo-music.netlify.app/Dashboard/feed">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BillQK&repo=belo&theme=radical" width="450" /> <!-- Adjust the width as needed -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BillQK&repo=belo&theme=radical" width="400" /> <!-- Adjust the width as needed -->
 </a>
 <a href="https://belo-music.netlify.app/Dashboard/feed">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BillQK&repo=belo-server&theme=radical" width="450" /> <!-- Adjust the width as needed -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BillQK&repo=belo-server&theme=radical" width="400" /> <!-- Adjust the width as needed -->
 </a>
 
 
