@@ -49,8 +49,8 @@ I'm passively looking for new positions where I can develop my love for code. If
 
   ## Stats
 <div align="left">
-    <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=BillQK&theme=radical&langs_count=5&layout=compact"/>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=BillQK&theme=radical&layout=compact"/>
+    <img height="180px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=BillQK&theme=radical&langs_count=5&layout=compact"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=BillQK&theme=radical&layout=compact"/>
 </div>
 
 ## Projects 🔭
