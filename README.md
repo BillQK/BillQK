@@ -75,6 +75,13 @@ I'm passively looking for new positions where I can develop my love for code. If
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=BillQK&repo=belo-server&theme=radical" width="350" /> <!-- Adjust the width as needed -->
 </a>
 
+<a href="https://github.com/BillQK/kanbas-react-web-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BillQK&repo=kanbas-react-web-app&theme=radical" width="350" /> <!-- Adjust the width as needed -->
+</a>
+<a href="https://github.com/BillQK/kanbas-node-server-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BillQK&repo=kanbas-node-server-app&theme=radical" width="350" /> <!-- Adjust the width as needed -->
+</a>
+
 
 </td>
 </tr>
