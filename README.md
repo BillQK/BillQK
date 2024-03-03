@@ -53,7 +53,7 @@ I'm passively looking for new positions where I can develop my love for code. If
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=BillQK&theme=radical&layout=compact"/>
 </div>
 
-## Projects 🔭
+## Projects ✨✨
 ### <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <a href="https://belo-music.netlify.app/Dashboard/feed">
 
