@@ -54,14 +54,29 @@ I'm passively looking for new positions where I can develop my love for code. If
 </div>
 
 ## Projects ✨✨
-### <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<a href="https://belo-music.netlify.app/Dashboard/feed">
 
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+<table>
+<tr>
+<td valign="top">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BillQK&repo=belo&theme=radical" />
+<img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /><br>
+<img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><br>
+<img alt="NodeJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /><br>
+<img alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /><br>
+<img alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 
-</a>  
+</td>
+<td>
+
+[![Project](https://github-readme-stats.vercel.app/api/pin/?username=BillQK&repo=belo&theme=radical)](https://belo-music.netlify.app/Dashboard/feed)
+[![Project](https://github-readme-stats.vercel.app/api/pin/?username=BillQK&repo=belo-server&theme=radical)](https://belo-music.netlify.app/Dashboard/feed)
+
+</td>
+</tr>
+</table>
+
+
+
 
 
 <!--
