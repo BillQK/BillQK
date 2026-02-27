@@ -1,10 +1,12 @@
 # Hey, I'm Khoi (Bill). ✨✨
-**`I'm a Computer Science Student`**
 
-I am from VietNam 🇻🇳. I currently work for Khoury College as a Teaching Assistant for Computer Science Fundamentals II: Class-based Program Design. I also toss in my ¢2 with Factorio/Civ6 from time to time (once a gamer, always a gamer, amirite?) 😙.
+**`CS Grad · Curious Builder`**
 
-I'm passively looking for new positions where I can develop my love for code. If you think you've got an opening that I might like, let's connect 🔗 Let's connect!
+I'm from Vietnam 🇻🇳 and I like making things with code. Lately I've been drawn to AI-native products, local-first software, and figuring out how to build systems that genuinely help people.
 
+Outside of coding, I'm into game theory — riichi mahjong and poker keep me sharp. Always down to learn something new.
+
+Let's connect 🔗
 <p align ="left">
   <a  href="https://khoi-ngo.vercel.app/" target="_blank">
     <img src=https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=vercel&logoColor=white alt="example"/>
@@ -18,7 +20,6 @@ I'm passively looking for new positions where I can develop my love for code. If
  
   </a>  
   </p>
-<br/>
 
   ## Stats
 <div align="left">
