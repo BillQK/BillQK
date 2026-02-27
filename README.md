@@ -18,114 +18,12 @@ I'm passively looking for new positions where I can develop my love for code. If
  
   </a>  
   </p>
-
-  ## Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" />
-<img align="left" alt="maven" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg"  />
-
-
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-
-
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-
-
 <br/>
 
   ## Stats
 <div align="left">
-    <img height="180px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=BillQK&theme=radical&langs_count=5&layout=compact"/>
+    <img height="180px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=BillQK&theme=radical&langs_count=10&layout=compact"/>
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=BillQK&theme=radical&layout=compact"/>
 </div>
 
-## Projects ✨✨
 
-<table>
-<tr>
-<td valign="top">
-
-<img alt="JavaScript" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /><br>
-<img alt="React" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><br>
-<img alt="NodeJS" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /><br>
-<img alt="HTML" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /><br>
-<img alt="CSS" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-
-</td>
-<td>
-
-<a href="https://belo-music.netlify.app/Dashboard/feed">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BillQK&repo=belo&theme=radical" width="350" /> <!-- Adjust the width as needed -->
-</a>
-<a href="https://belo-music.netlify.app/Dashboard/feed">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BillQK&repo=belo-server&theme=radical" width="350" /> <!-- Adjust the width as needed -->
-</a>
-
-<a href="https://github.com/BillQK/kanbas-react-web-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BillQK&repo=kanbas-react-web-app&theme=radical" width="350" /> <!-- Adjust the width as needed -->
-</a>
-<a href="https://github.com/BillQK/kanbas-node-server-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BillQK&repo=kanbas-node-server-app&theme=radical" width="350" /> <!-- Adjust the width as needed -->
-</a>
-
-
-</td>
-</tr>
-</table>
-
-
-<table>
-<tr>
-<td valign="top">
-<img alt="C++" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-</td>
-<td>
-<a href="https://github.com/BillQK/TextEditor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BillQK&repo=TextEditor&theme=radical" width="350" /> <!-- Adjust the width as needed -->
-</a>
-<a href="https://github.com/BillQK/Asset-Library-And-Scene-Builder">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BillQK&repo=Asset-Library-And-Scene-Builder&theme=radical" width="350" /> <!-- Adjust the width as needed -->
-</a>
-
-<a href="https://github.com/BillQK/Content-Aware-Image-Resize">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BillQK&repo=Content-Aware-Image-Resize&theme=radical" width="350" /> <!-- Adjust the width as needed -->
-</a>
-
-
-
-</td>
-</tr>
-</table>
-
-
-
-
-
-<!--
-**BillQK/BillQK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
